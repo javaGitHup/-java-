@@ -12,10 +12,9 @@ java架构师技术图谱包括：分布式、大数据、存储、微服务、�
 
 #### 多线程
 [多线程20121最新面试题](https://t.1yb.co/vfn3) <br>
-[多线程基础](https://t.1yb.co/vfLr)
-多线程进阶
-多线程底层原理
-多线程调优
+[多线程基础](https://t.1yb.co/vfLr) <br>
+[多线程进阶](https://t.1yb.co/vfLr) <br>
+[多线程调优](https://t.1yb.co/vfLr) <br>
 ####  JVM
 [JVM20121最新面试题](https://t.1yb.co/uWUf)
 JVM基础
